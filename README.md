@@ -1,8 +1,9 @@
 # 네이버 실시간 검색어 내 마음대로 바꾸기
 <img src='https://github.com/Taehoonjth/naver/blob/master/img/chrome_example.png?raw=true' alt='' width='800'>
 
-## 개발자 도구 사용
-이것을 하기 위해선 크롬 또는 파이어폭스 브라우저가 필요합니다.
+## 네이버 방문
+크롬 또는 파이어폭스로 네이버(https://www.naver.com/)에 방문합니다.
+## 개발자 도구 열기
 ### 크롬의 경우
 Ctrl+Shift+J (윈도우 / 리눅스) 또는 Cmd+Opt+J (맥)를 누릅니다. 아래 처럼 console이 뜨면 됩니다.
 <img src='https://github.com/Taehoonjth/naver/blob/master/img/chrome_console.png?raw=true' alt='' width='800'>
