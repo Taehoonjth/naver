@@ -1,5 +1,5 @@
 # 네이버 실시간 검색어 내 마음대로 바꾸기
-
+<img src='https://github.com/Taehoonjth/naver/blob/master/img/chrome_example.png?raw=true' alt='' width='800'>
 ## 개발자 도구 사용
 이것을 하기 위해선 크롬 또는 파이어폭스 브라우저가 필요합니다.
 ### 크롬의 경우
@@ -22,3 +22,4 @@ for (var i = 0; i < 41; i++) {
   document.getElementsByClassName('ah_k')[i].innerHTML = '여기를 바꾸세요';
 }
 ```
+<img src='https://github.com/Taehoonjth/naver/blob/master/img/chrome_every.png?raw=true' alt='' width='800'>
