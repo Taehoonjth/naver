@@ -14,7 +14,10 @@ Ctrl+Shift+J (윈도우 / 리눅스) 또는 Cmd+Opt+J (맥)를 누릅니다. 아
 콘솔에 아래의 코드를 복사 붙여넣기 하고 콤마 사이의 텍스트를 여러분이 원하는 것으로 바꾸세요(콤마는 그대로 유지하세요).
 그리고 네이버 실시간 검색어 1위를 확인해보세요.
 ```
-document.getElementsByClassName('ah_k')[0].innerHTML = '여기를 바꾸세요';
+var first = '여기를 바꾸세요';
+document.getElementsByClassName('ah_k')[0].innerHTML = first;
+document.getElementsByClassName('ah_k')[20].innerHTML = first;
+document.getElementsByClassName('ah_k')[21].innerHTML = first;
 ```
 
 ### 모두 바꾸기
