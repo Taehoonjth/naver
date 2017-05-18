@@ -4,7 +4,7 @@
 이것을 하기 위해선 크롬 또는 파이어폭스 브라우저가 필요합니다.
 ### 크롬의 경우
 Ctrl+Shift+J (윈도우 / 리눅스) 또는 Cmd+Opt+J (맥)를 누릅니다. 아래 처럼 console이 뜨면 됩니다.
-<img src='https://raw.githubusercontent.com/Taehoonjth/naver/img/chrome_console.png' alt='' width='800'>
+<img src='https://github.com/Taehoonjth/naver/blob/master/img/chrome_console.png?raw=true' alt='' width='800'>
 ### 파이어폭스의 경우
 
 ## 검색어 바꾸기
