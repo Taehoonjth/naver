@@ -23,8 +23,9 @@ document.getElementsByClassName('ah_k')[21].innerHTML = first;
 ### 모두 바꾸기
 1위 만으로는 만족 못하시겠다면 이번에는 1위부터 1위부터 20위 까지 모두를 바꿔봅시다.
 ```
+var first = '여기를 바꾸세요';
 for (var i = 0; i < 41; i++) {
-  document.getElementsByClassName('ah_k')[i].innerHTML = '여기를 바꾸세요';
+  document.getElementsByClassName('ah_k')[i].innerHTML = first;
 }
 ```
 <img src='https://github.com/Taehoonjth/naver/blob/master/img/chrome_every.png?raw=true' alt='' width='800'>
