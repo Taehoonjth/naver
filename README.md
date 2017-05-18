@@ -20,8 +20,7 @@ document.getElementsByClassName('ah_k')[20].innerHTML = first;
 document.getElementsByClassName('ah_k')[21].innerHTML = first;
 ```
 <img src='https://github.com/Taehoonjth/naver/blob/master/img/chrome_first.png?raw=true' alt='' width='800'>
-*(외계인이 침공이 네이버 실시간 검색어 1위?)*
-*(You can't see the text but it's there, in white.)*
+(외계인이 침공이 네이버 실시간 검색어 1위?)
 
 ### 모두 바꾸기
 1위 만으로는 만족 못하시겠다면 이번에는 1위부터 1위부터 20위 까지 모두를 바꿔봅시다.
