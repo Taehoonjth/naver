@@ -35,4 +35,4 @@ for (var i = 0; i < 41; i++) {
 ```
 <img src='https://github.com/Taehoonjth/naver/blob/master/img/chrome_every.png?raw=true' alt='' width='800'>
 
-## 책으로 돌아가세요!
+## 수고하셨습니다. 책으로 돌아가세요!
